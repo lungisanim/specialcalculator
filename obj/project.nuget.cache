@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqDqOguQ00KHd+nkeobP3aJj3uj4izP04I8T7Md2LCb2+uNknGqr5hKzn22KUjM/x2OoLkiOCuNQr1mbu0rJaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lungisani Nhlengethw\\source\\repos\\SpecialCalculator\\SpecialCalculator\\SpecialCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lungisani Nhlengethw\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
